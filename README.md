@@ -1,4 +1,4 @@
-# Lambda's and Stream API example
+# Lambda's and Stream API
 
 The utility reads employee data from a file and then finds the employee with the highest salary.
 
